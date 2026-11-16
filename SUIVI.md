@@ -15,4 +15,5 @@
   - Branche fusionnée dans `main` via la pull request #1 (`3e7e7df`), puis récupérée en local.
   - Branche `demo-atelier` supprimée en local et sur GitHub.
 - **Suivi** : création de `SUIVI.md` et ajout dans `CLAUDE.md` de la consigne de le mettre à jour après chaque modification (commit `bf1683d`).
-- **README** : ajout de la section « Refaire ce projet chez vous » (installer Git, configurer son identité, cloner le projet, installer Claude Code avec la correction du PATH sous Windows, lancer `claude`). Commandes vérifiées dans la documentation officielle (setup et dépannage de l'installation).
+- **README** : ajout de la section « Refaire ce projet chez vous » (installer Git, configurer son identité, cloner le projet, installer Claude Code avec la correction du PATH sous Windows, lancer `claude`). Commandes vérifiées dans la documentation officielle (setup et dépannage de l'installation) (commit `2970407`).
+- **README** : l'encadré sur l'abonnement ne liste plus les offres (la liste était incomplète, il manquait Ultra). Il indique « un abonnement Claude payant ou un compte Console » et renvoie à la documentation.

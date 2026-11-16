@@ -23,7 +23,7 @@ Double-cliquez sur `index.html` : la page s'ouvre dans le navigateur, sans serve
 
 ## Refaire ce projet chez vous
 
-> **À savoir :** Claude Code demande un abonnement Claude payant (Pro, Max, Team ou Enterprise) ou un compte Console. L'offre gratuite de claude.ai ne donne pas accès à Claude Code.
+> **À savoir :** Claude Code demande un abonnement Claude payant ou un compte Console (voir la documentation pour la liste des offres). L'offre gratuite de claude.ai ne donne pas accès à Claude Code.
 >
 > Documentation officielle : https://code.claude.com/docs/en/setup.md
 
